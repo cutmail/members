@@ -1,0 +1,18 @@
+owners:
+  - name: Rust/OGAWA
+    github: rust
+    twitter: conceal_rs
+    website:
+  - name: Takafumi ONAKA
+    github: onk
+    twitter: onk
+    website:
+  - name: SHIOYA, Hiromu
+    github: kwappa
+    twitter: kwappa
+    website: http://www.kwappa.net/
+members:
+  - name: SAWADA Tadashi
+    github: cesare
+    twitter: cesare
+    website:
