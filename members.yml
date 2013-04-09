@@ -1,8 +1,8 @@
 owners:
-  - name: Rust/OGAWA
+  - name: Shin-ichiro OGAWA
     github: rust
     twitter: conceal_rs
-    website:
+    website: http://stnard.jp/
   - name: Takafumi ONAKA
     github: onk
     twitter: onk
